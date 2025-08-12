@@ -1,3 +1,3 @@
 # apnacollage-demo
 This is my first  Git repository.
-Auther - Nagraju Jakkula
+Author - Nagraju Jakkula
